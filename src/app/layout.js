@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Phanuwat Panya",
+  icons: "/favicon.ico",
   description: "Hallo my name is mark",
 };
 

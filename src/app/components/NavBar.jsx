@@ -10,8 +10,11 @@ const NavBar = () => {
                     <a href="#" className="text-white hover:text-blue-400">Services</a>
                     <a href="#" className="text-white hover:text-blue-400">Contact</a>
                 </div>
-                <div className="text-white">
-                    <a href="tel:+1234567890" className="hover:text-blue-400">(+66) 93-134-5179</a>
+                <div className="text-white"> 
+                    <a href="tel:+66931345179" className="hover:text-blue-400 flex" >
+                        <img src="/assets/phone.png" alt="Phone" className="hover:text-blue-400" height="24px" viewBox="0 -960 960 960" width="24px"/> 
+                         093-134-5179
+                    </a>
                 </div>
             </div>
         </nav>
