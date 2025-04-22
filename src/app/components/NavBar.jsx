@@ -7,7 +7,7 @@ const NavBar = () => {
             <div className="container mx-auto flex justify-between items-center ">
                 <div className="flex space-x-4">
                     <Link href="/" className="font-merriweather text-white hover:text-blue-400">Home</Link>
-                    <Link href="/about" className="font-merriweather text-white hover:text-blue-400">About</Link>
+                    <Link href="/about" className="font-merriweather text-white hover:text-blue-400">Portfolio</Link>
                     <Link href="/Services" className="font-merriweather text-white hover:text-blue-400">Services</Link>
                     <Link href="/Contact" className="font-merriweather text-white hover:text-blue-400">Contact</Link>
                 </div>
